@@ -27,7 +27,8 @@ class testAssessment {
                 rotateChars.push(stringArray.pop());
             }
         
-            resultStr = [...rotateChars.reverse(), ...stringArray];    
+            resultStr = [...rotateChars.reverse(), ...stringArray];   
+            resultStr = resultStr.join('');
         }
 
       return resultStr;
