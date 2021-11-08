@@ -7,4 +7,4 @@ provided value.
 
 The 2nd function, `stringRotation`, also takes two arguments, a string and 
 a number that counts how many characters from the end of the string will be 
-prepended to said string. This function returns an object with the new string.
+prepended to said string. This function returns the new string.
